@@ -11,13 +11,13 @@
 ```bash
 npm install --s --f && npm run dev
 ```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+You can start editing the page by modifying `pages/pagename.js`. The page auto-updates as you edit the file.
+
 ## 🛠 Production Server
 ```bash
 npm install --s --f && npm run build && npm run start
 ```
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-You can start editing the page by modifying `pages/pagename.js`. The page auto-updates as you edit the file.
-
 
 ## Learn More
 
