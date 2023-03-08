@@ -1,7 +1,7 @@
 <div align="center">
     <h1>benthendra.cf @ 2.0.0</h1>
     <h5>Developed with 💚 by <a href="https://benthendra.cfz">Thendra</a></h5>
-    <img src="https://cdn.discordapp.com/attachments/1066145559171301377/1077674186526425248/indir_1.jpg">
+    <img src="https://cdn.discordapp.com/attachments/1083067621672493206/1083067711329947668/benthendra.cf-v2.0.0.jpg">
 </div>
 
 ## Getting Started
